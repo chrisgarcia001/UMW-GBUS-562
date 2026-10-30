@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Week 3 RAG tool: Chroma vector database (rebuilt with ask.py --rebuild)
+chroma_db/

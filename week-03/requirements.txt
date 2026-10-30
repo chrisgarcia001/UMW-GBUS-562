@@ -1,0 +1,4 @@
+anthropic
+chromadb
+beautifulsoup4
+pymupdf
