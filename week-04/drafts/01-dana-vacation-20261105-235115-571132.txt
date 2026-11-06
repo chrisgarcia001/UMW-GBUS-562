@@ -1,0 +1,16 @@
+Status: DRAFT, not sent
+To: dana.whitfield@hartwellfoods.example
+Subject: Re: Vacation days
+Source email: 01-dana-vacation.eml
+Needs human review: false
+
+Hi Dana,
+
+You currently have 9 vacation days remaining for this year.
+
+Regarding carryover: you're allowed to carry up to 5 unused vacation days into the next calendar year. Any carried days must be used within the first three months of the new year, or they will be lost. Any unused days beyond that 5-day limit are forfeited at year-end and are not paid out. (Source: leave-policy.html, "Carrying vacation into next year")
+
+Let me know if you have any other questions!
+
+Best,
+HR

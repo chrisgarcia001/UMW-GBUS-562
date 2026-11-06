@@ -1,0 +1,24 @@
+Status: DRAFT, not sent
+To: megan.turner@hartwellfoods.example
+Subject: Re: Family trip
+Source email: 03-megan-time-off.eml
+Needs human review: false
+
+Hi Megan,
+
+Thanks for reaching out, and I hope the trip is a great one!
+
+Here's where things stand:
+- You currently have **7 vacation days** available.
+- A 10-business-day trip would require 10 vacation days, so you'd be short by 3 days.
+
+Your options, per our Vacation and Time Off Policy (leave-policy.html):
+1. **Shorten the trip** to 7 business days or fewer to fully cover it with your current vacation balance.
+2. **Combine vacation with unpaid leave** — you can request up to 5 days of unpaid leave to cover a shortfall. Since you'd only need 3 extra days, this would work, but it requires approval from both your manager and HR.
+
+Also note: since this would be more than 5 consecutive business days off, the policy requires your manager's approval at least **10 business days** before the start date — so with your trip being about two months out, you're in good shape timing-wise, just be sure to submit the request with enough lead time.
+
+Let me know if you'd like help starting the unpaid leave request, and I'm happy to assist further.
+
+Best,
+HR Assistant

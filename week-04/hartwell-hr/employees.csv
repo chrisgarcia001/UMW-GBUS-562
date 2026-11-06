@@ -1,0 +1,13 @@
+email,name,department,manager,vacation_days_left,sick_days_left,personal_days_left
+dana.whitfield@hartwellfoods.example,Dana Whitfield,Sales,Omar Haddad,9,6,1
+mike.sullivan@hartwellfoods.example,Mike Sullivan,Warehouse,Ines Duarte,12,8,2
+megan.turner@hartwellfoods.example,Megan Turner,Marketing,Lena Fischer,7,5,0
+tom.bennett@hartwellfoods.example,Tom Bennett,Marketing,Lena Fischer,14,7,2
+renee.sato@hartwellfoods.example,Renee Sato,Finance,Paul Novak,11,8,1
+sam.delgado@hartwellfoods.example,Sam Delgado,Customer Service,Grace Kim,16,3,2
+omar.haddad@hartwellfoods.example,Omar Haddad,Sales,Paul Novak,18,8,2
+ines.duarte@hartwellfoods.example,Ines Duarte,Warehouse,Paul Novak,5,4,1
+lena.fischer@hartwellfoods.example,Lena Fischer,Marketing,Paul Novak,13,8,2
+grace.kim@hartwellfoods.example,Grace Kim,Customer Service,Paul Novak,10,6,0
+paul.novak@hartwellfoods.example,Paul Novak,Executive,,20,8,2
+alex.rivers@hartwellfoods.example,Alex Rivers,Production,Ines Duarte,3,2,1

@@ -1,0 +1,14 @@
+Status: DRAFT, not sent
+To: sam.delgado@hartwellfoods.example
+Subject: Re: Not sure who to talk to
+Source email: 06-sam-concern.eml
+Needs human review: true
+
+Hi Sam,
+
+Thank you for reaching out, and I'm sorry to hear you're dealing with this. What you're describing is something our HR team needs to look into directly, so I'm flagging your message for a member of the HR team to follow up with you personally and promptly.
+
+You're not alone in handling this, and reaching out was the right step.
+
+Thank you for your patience,
+HR
