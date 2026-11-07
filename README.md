@@ -12,4 +12,4 @@ This repository holds materials created for the University of Mary Washington's 
 3. week-03
    - [Copperline Q&A (ask.py)](week-03/ask.py): A RAG tool that answers questions from Copperline Manufacturing's finance documents, built with Claude Code.
 4. week-04
-   - [Hartwell HR Email Agent](week-04/hartwell-hr): An AI agent that prepares replies to HR emails using tools from an MCP server, built with Claude Code.
+   - [Hartwell HR Email Agent](week-04/agent.py): An AI agent that prepares replies to HR emails using tools from an MCP server, and can send replies that don't need human review, built with Claude Code.
