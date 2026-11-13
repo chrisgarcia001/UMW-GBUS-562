@@ -1,0 +1,19 @@
+Status: DRAFT, not sent
+Kind: supplier reply
+To: Lisa Moreno <l.moreno@kendalltire.example>
+Subject: Re: PO-7795 - TR-29 tires - two options, please choose
+Reviewer: APPROVE after 1 revision
+Name check: passed
+Needs a person: no
+
+Hi Lisa,
+
+Thank you for the heads-up on PO-7795. To confirm our understanding:
+
+- Option 1: 160 tires on day 8, remaining 240 on day 22
+- Option 2 (default): all 400 tires on day 12
+
+We will confirm our choice within the two business days you requested. In the meantime, please let us know if there's any way to expedite a larger portion of the order sooner than day 8/day 12, as that would help reduce any delay on our end.
+
+Thanks,
+Purchasing, Brookfield Bicycle Company

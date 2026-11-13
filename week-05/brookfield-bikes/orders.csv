@@ -1,0 +1,11 @@
+order_id,customer,contact_email,model,qty,ship_in_days,late_penalty
+O-1041,Riverside Cycles,orders@riversidecycles.example,Commuter E,40,7,no
+O-1042,Blue Ridge Bike Shop,purchasing@blueridgebikeshop.example,Cargo E,30,10,yes
+O-1043,City of Ashford Bike Share,fleet@ashfordbikeshare.example,Commuter E,100,14,yes
+O-1044,Main Street Bikes,owner@mainstreetbikes.example,Cargo E,30,18,no
+O-1045,Lakeview Rentals,info@lakeviewrentals.example,Commuter E,50,21,no
+O-1046,Hilltop Outfitters,buying@hilltopoutfitters.example,Trail 29,80,9,no
+O-1047,Greenway Cycles,orders@greenwaycycles.example,Commuter E,70,35,no
+O-1048,Bayside Cycle Co.,orders@baysidecycle.example,Cargo E,20,28,no
+O-1049,Pine Valley Outdoors,orders@pinevalleyoutdoors.example,Trail 29,40,16,yes
+O-1050,Foster Bike & Ski,purchasing@fosterbikeski.example,Trail 29,30,24,no

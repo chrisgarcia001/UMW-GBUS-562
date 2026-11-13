@@ -1,0 +1,22 @@
+Status: DRAFT, not sent
+Kind: customer notice
+To: City of Ashford Bike Share <fleet@ashfordbikeshare.example>
+Subject: Your order O-1043
+Reviewer: APPROVE after 0 revisions
+Name check: passed
+Needs a person: YES, because the order has a late penalty
+
+Subject: Update on Order O-1043
+
+Dear City of Ashford Bike Share,
+
+We're writing to let you know about a change to the shipping timeline for your order.
+
+Order O-1043, for 100 Commuter E bikes, is now expected to ship in 26 days, which is 12 days later than originally planned.
+
+We apologize for this delay. It is due to a delay in a part from one of our suppliers.
+
+We appreciate your patience and will keep you informed if there is any further change to this timeline. If you have questions about your order, please don't hesitate to reach out.
+
+Customer Service
+Brookfield Bicycle Company

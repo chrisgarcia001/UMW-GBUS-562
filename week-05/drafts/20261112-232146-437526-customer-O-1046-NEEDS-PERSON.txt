@@ -1,0 +1,20 @@
+Status: DRAFT, not sent
+Kind: customer notice
+To: Hilltop Outfitters <buying@hilltopoutfitters.example>
+Subject: Your order O-1046
+Reviewer: APPROVE after 0 revisions
+Name check: passed
+Needs a person: YES, because the supplier offered options, so this delay depends on which one Brookfield chooses
+
+Subject: Update on Your Order O-1046
+
+Dear Hilltop Outfitters,
+
+We are writing to let you know about a change to your order O-1046 for 80 units of the Trail 29. The order was originally planned to ship in 9 days from today, but it is now expected to ship in 12 days, a delay of 3 days.
+
+We apologize for this delay. It is due to a delay in a part from one of our suppliers.
+
+We will continue to monitor the order and let you know if anything further changes. Thank you for your patience and for your business.
+
+Customer Service
+Brookfield Bicycle Company

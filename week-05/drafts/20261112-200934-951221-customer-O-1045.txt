@@ -1,0 +1,21 @@
+Status: DRAFT, not sent
+Kind: customer notice
+To: Lakeview Rentals <info@lakeviewrentals.example>
+Subject: Your order O-1045
+Reviewer: APPROVE after 0 revisions
+Name check: passed
+Needs a person: no
+
+Subject: Update on Your Order O-1045
+
+Dear Lakeview Rentals,
+
+We are writing to update you on the status of your order, O-1045, for 50 Commuter E bikes. We're sorry to let you know that this order is now expected to ship 5 days later than originally planned.
+
+This delay is due to a delay in a part from one of our suppliers.
+
+We appreciate your patience and understanding, and we will keep you informed if anything further changes with your order's timeline.
+
+Thank you for your continued business.
+
+Customer Service, Brookfield Bicycle Company

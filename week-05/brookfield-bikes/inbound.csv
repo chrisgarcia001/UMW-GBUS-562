@@ -1,0 +1,4 @@
+po_number,part_id,supplier,qty,arrives_in_days
+PO-7781,MC-500,Northgate Drive Systems,400,5
+PO-7790,BP-48,Keystone Battery Co.,150,6
+PO-7795,TR-29,Kendall Tire Supply,400,8
