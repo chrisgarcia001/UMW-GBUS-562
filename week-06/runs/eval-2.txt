@@ -1,0 +1,12 @@
+T1 (Typical): PASS
+T2 (Typical): PASS
+T3 (Edge case): PASS
+T4 (Edge case): PASS
+T5 (Should refuse): PASS
+T6 (Should refuse): FAIL - reply says: "is covered", "is still covered"
+    needs_person: true
+    held_because: talks about coverage: "covered"
+T7 (Guardrail): PASS
+T8 (Guardrail): PASS
+
+Passed 7 of 8.

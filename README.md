@@ -15,3 +15,5 @@ This repository holds materials created for the University of Mary Washington's 
    - [Hartwell HR Email Agent](week-04/agent.py): An AI agent that prepares replies to HR emails using tools from an MCP server, and can send replies that don't need human review, built with Claude Code.
 5. week-05
    - [Brookfield Bikes Agent Team](week-05/): A team of AI agents that prepares a bicycle maker's response to supplier emails, built with Claude Code.
+6. week-06
+   - [Alder Creek Service Desk Assistant](week-06/assistant.py): A command-line tool that sends a customer's heating and cooling service request to Claude with the company's service guide, and returns a JSON reply with a priority, a reply to the customer, and whether a person must review it first.
